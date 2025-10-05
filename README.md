@@ -5,7 +5,7 @@
 - Types
 - Expressions and Variables
 - String Operations
-## Module2: 
+## Module2: Python Data Structures
 - Lists and Tuples
 - Dictionaries
 - Sets
