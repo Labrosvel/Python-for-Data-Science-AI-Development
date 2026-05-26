@@ -70,4 +70,18 @@ https://www.coursera.org/learn/python-for-applied-data-science-ai#modules
   - Reading 4e: Beginner's Guide to Numpy
 ## Module 5: APIs and Data Collection
 - Simple APIs
+  - Application Program Interface
+  - Reading 5a: Some Context on APIs
+  - Lab 5a: Introduction to API
 - REST APIs, Web Scraping and Working with Files
+  - REST APIs & HTTP Requests - Part 1
+  - REST APIs & HTTP Requests - Part 2
+  - Reading 5b: Web Scrapping and HTML Basics
+  - Lab 5b: Access REST APIs & Request HTTP
+  - Lab 5c: API Examples
+  - Web Scraping
+  - Reading 5c: Web Scraping - A Key Tool in Data Science
+  - Reading 5d: Web Scraping Tables using Pandas
+  - Lab 5d: Web Scraping
+  - Working with Different File Formats
+  - Lab 5e: Working with Different File Formats
