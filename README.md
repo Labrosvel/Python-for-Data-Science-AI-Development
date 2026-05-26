@@ -19,8 +19,15 @@ https://www.coursera.org/learn/python-for-applied-data-science-ai#modules
   - Lab 1d: String Operations
 ## Module 2: Python Data Structures
 - Lists and Tuples
+  - Lists and Tuples
+  - Lab 2a: Lists
+  - Lab 2b: Tuples
 - Dictionaries
+  - Dictionaries
+  - Lab 2c: Dictionaries
 - Sets
+  - Sets
+  - Lab 2d: Sets
 ## Module 3: Python Programming Fundamentals
 - Conditions and Branching
 - Loops
