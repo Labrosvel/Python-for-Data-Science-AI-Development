@@ -30,10 +30,24 @@ https://www.coursera.org/learn/python-for-applied-data-science-ai#modules
   - Lab 2d: Sets
 ## Module 3: Python Programming Fundamentals
 - Conditions and Branching
+  - Conditions and Branching
+  - Lab 3a: Conditions and Branching
 - Loops
+  - Loops
+  - Reading 3a: Intro to Loops in Python
+  - Lab 3b: Loops
 - Functions
+  - Functions
+  - Reading 3b: Exploring Python Functions
+  - Lab 3c: Functions
 - Exception Handling
+  - Exception Handling
+  - Reading 3c: Exception Handling
+  - Lab 3d: Exception Handling
 - Objects and Classes
+  - Objects and Classes
+  - Reading 3d: Objects and Classes
+  - Lab 3e: Objects and Classes
 ## Module 4: Working with Data in Python
 - Reading and Writing Files with Open
 - Pandas
