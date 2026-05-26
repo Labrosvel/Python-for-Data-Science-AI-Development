@@ -1,4 +1,5 @@
 # Python-for-Data-Science-AI-Development
+https://www.coursera.org/learn/python-for-applied-data-science-ai#modules
 
 ## Module1: Python Basics
 - Getting started with Python and Jupyter
