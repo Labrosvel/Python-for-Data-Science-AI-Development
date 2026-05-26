@@ -50,8 +50,24 @@ https://www.coursera.org/learn/python-for-applied-data-science-ai#modules
   - Lab 3e: Objects and Classes
 ## Module 4: Working with Data in Python
 - Reading and Writing Files with Open
+  - Reading Files with Open
+  - Reading 4a: Reading Files with Open
+  - Lab 4a: Reading Files with Open
+  - Writing Files with Open
+  - Reading 4b: Writing Files with Open
+  - Lab 4b: Writing Files with Open
 - Pandas
+  - Loading Data
+  - Working with and Saving Data
+  - Reading 4c: Pandas
+  - Lab 4e: Selecting Data in a DataFrame
 - Numpy in Python
+  - One Dimensional Numpy
+  - Lab 4f: One Dimensional Numpy
+  - Reading 4d: Matrix Mathematics
+  - Two Dimensional Numpy
+  - Lab 4g: Two Dimensional Numpy
+  - Reading 4e: Beginner's Guide to Numpy
 ## Module 5: APIs and Data Collection
 - Simple APIs
 - REST APIs, Web Scraping and Working with Files
